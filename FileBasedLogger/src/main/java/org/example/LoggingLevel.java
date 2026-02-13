@@ -1,5 +1,8 @@
 package org.example;
 
-public class LoggingLevel {
+public enum LoggingLevel {
 
+    DEBUG,
+     INFO,
+    ERROR
 }
